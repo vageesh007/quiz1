@@ -358,6 +358,6 @@ document.querySelector(".next").addEventListener("click", () => {
     a++;
   } else if (a == 25) {
     localStorage.setItem("quizMarks",counter);
-    window.location.href = "../third-page/index3.html";
+    window.location.href = "../index3.html";
   }
 });
