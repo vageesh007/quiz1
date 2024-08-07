@@ -1,0 +1,33 @@
+body {
+  background-color: #f5f5f57a;
+}
+
+.quiz-icon-container {
+  display: flex;
+  justify-content: center;
+  padding: 183px 289px 10px 289px;
+  max-width: 1000px;
+  height: 300px;
+}
+
+.start-now {
+  display: flex;
+  justify-content: center;
+}
+
+.start-now-container {
+  background-color: #35bd3a;
+  width: 430px;
+  height: 60px;
+  font-size: 36px;
+  font-weight: 600;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+.ending {
+  bottom: -200px;
+  position: relative;
+}
